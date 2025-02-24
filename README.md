@@ -25,7 +25,7 @@ Proyek ini adalah aplikasi manajemen training dan shipment permit berbasis Larav
 ## 🛠 Instalasi
 ### 1️⃣ **Clone Repository**
 ```sh
-git clone https://github.com/username/repository.git
+git clone https://github.com/abyanardiatama/Coal_Hauling.git
 cd repository
 ```
 
